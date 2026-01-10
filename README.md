@@ -1,16 +1,56 @@
-## Hi there 👋
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Jeff%20Developer&fontColor=ffffff&fontSize=40" />
+</p>
 
-<!--
-**Jeff284/Jeff284** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hola, soy Jeff</h1>
+<p align="center">
+  <strong>Developer autodidacta · Aprendiendo bien los fundamentos</strong>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Sobre mí
+
+- 💻 Interesado en desarrollo web
+- 🧠 Enfoque en entender antes de repetir
+- 🐧 Linux (Mint / Debian)
+- 📚 Aprendizaje constante y consciente
+
+---
+
+## 🧰 Tecnologías
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeff284&show_icons=true&theme=github_dark" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff284&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+## 🎯 Objetivo
+
+Construir una base sólida como developer, priorizando fundamentos y criterio técnico.
+
+---
+
+## 📫 Contacto
+
+- GitHub: https://github.com/Jeff284
+
+---
+
+<p align="center">
+  <em>“Aprender bien una sola vez.”</em>
+</p>
