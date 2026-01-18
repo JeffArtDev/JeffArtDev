@@ -1,11 +1,14 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Jeff%20Developer&fontColor=ffffff&fontSize=40" />
+  <img src="https://ishan-rest.vercel.app/svg/banner/hacker/Jefferson?v=1" alt="Jefferson hacker banner" height="200"/>
 </p>
+
+
+
 
 <h1 align="center" style="color: crimson; font-weight: 700; letter-spacing: 1px;">👋 Hola, soy Jeffereson</h1>
 <p align="center">
-  <strong>Developer autodidacta · Aprendiendo bien los fundamentos</strong>
+  <strong>Developer autodidacta</strong>
 </p>
 
 
@@ -21,7 +24,7 @@
 ## 🧰 Tecnologías
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,git,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,git,linux,react,figma,obsidian,git,vscode" />
 </p>
 
 
@@ -30,13 +33,14 @@
 
 Construir una base sólida como developer, priorizando fundamentos y criterio técnico.
 
-
-
-## 📫 Contacto
-
-- GitHub: https://github.com/Jeff284
-
 ---
+
+### 🧠 Lenguajes más usados
+```txt
+HTML        ██████████████░░
+CSS         ███████████░░░░░
+JavaScript  █░░░
+```
 
 <p align="center">
   <em>“Un mar en calma nunca hizo a un marinero experto.”</em>
