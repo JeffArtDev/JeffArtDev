@@ -1,30 +1,22 @@
 <!-- BANNER -->
-<p align="center">
-  <img src="https://ishan-rest.vercel.app/svg/banner/hacker/Jefferson?v=1" alt="Jefferson hacker banner" height="200"/>
-</p>
-
-
-
+![banner](descarga.svg)
 
 <h1 align="center" style="color: crimson; font-weight: 700; letter-spacing: 1px;">👋 Hola, soy Jeffereson</h1>
 <p align="center">
   <strong>Developer autodidacta</strong>
 </p>
 
-
-
 ## 🧩 Sobre mí
 
-- 💻 Interesado en desarrollo web
-- 🧠 Enfoque en entender antes de repetir
-- 📚 Aprendizaje constante y consciente
-
+- 💻 Interesado en desarrollo software
+- 🌱 En constante aprendizaje
+- 🔍 Curioso por cómo y por qué funcionan las cosas
 
 
 ## 🧰 Tecnologías
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,git,linux,react,figma,obsidian,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode" />
 </p>
 
 
@@ -39,7 +31,6 @@ Construir una base sólida como developer, priorizando fundamentos y criterio t�
 ```txt
 HTML        ██████████████░░
 CSS         ███████████░░░░░
-JavaScript  █░░░
 ```
 
 <p align="center">
