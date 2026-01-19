@@ -1,5 +1,5 @@
 <!-- BANNER -->
-![banner](descarga.svg)
+![banner](linea-de-vida.svg)
 
 <h1 align="center" style="color: crimson; font-weight: 700; letter-spacing: 1px;">👋 Hola, soy Jeffereson</h1>
 <p align="center">
